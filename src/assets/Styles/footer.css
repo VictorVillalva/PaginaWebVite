@@ -1,0 +1,17 @@
+footer{
+    margin: 0;
+    background-color:#F5F4F4;
+    position:relative;
+    bottom: 0; /*para poner el footer hasta abajo*/
+}
+img{
+    width: 165px;
+    height: 85px;
+    position: relative;
+}
+
+#div_fotos{
+    margin: 0;
+    height: 90px;
+    left: 85%;
+}

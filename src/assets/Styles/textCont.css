@@ -1,0 +1,9 @@
+.textCont p{
+    font-family: 'open sans';
+    text-align: right;
+}
+.textCont{
+    position: relative;
+    right:2%;
+    top: -79%;
+}
